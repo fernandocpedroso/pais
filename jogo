@@ -1,0 +1,135 @@
+[
+  {
+    "país": "Brasil",
+    "continente": "América do Sul",
+    "moeda": "Real",
+    "língua": "Português",
+    "capital": "Brasília"
+  },
+  {
+    "país": "Japão",
+    "continente": "Ásia",
+    "moeda": "Iene",
+    "língua": "Japonês",
+    "capital": "Tóquio"
+  },
+  {
+    "país": "Alemanha",
+    "continente": "Europa",
+    "moeda": "Euro",
+    "língua": "Alemão",
+    "capital": "Berlim"
+  },
+  {
+    "país": "Canadá",
+    "continente": "América do Norte",
+    "moeda": "Dólar Canadense",
+    "língua": "Inglês e Francês",
+    "capital": "Ottawa"
+  },
+  {
+    "país": "Austrália",
+    "continente": "Oceania",
+    "moeda": "Dólar Australiano",
+    "língua": "Inglês",
+    "capital": "Camberra"
+  },
+  {
+    "país": "Egito",
+    "continente": "África",
+    "moeda": "Libra Egípcia",
+    "língua": "Árabe",
+    "capital": "Cairo"
+  },
+  {
+    "país": "Argentina",
+    "continente": "América do Sul",
+    "moeda": "Peso Argentino",
+    "língua": "Espanhol",
+    "capital": "Buenos Aires"
+  },
+  {
+    "país": "China",
+    "continente": "Ásia",
+    "moeda": "Yuan",
+    "língua": "Chinês Mandarim",
+    "capital": "Pequim"
+  },
+  {
+    "país": "Espanha",
+    "continente": "Europa",
+    "moeda": "Euro",
+    "língua": "Espanhol",
+    "capital": "Madrid"
+  },
+  {
+    "país": "Estados Unidos",
+    "continente": "América do Norte",
+    "moeda": "Dólar Americano",
+    "língua": "Inglês",
+    "capital": "Washington D.C."
+  },
+  {
+    "país": "França",
+    "continente": "Europa",
+    "moeda": "Euro",
+    "língua": "Francês",
+    "capital": "Paris"
+  },
+  {
+    "país": "Índia",
+    "continente": "Ásia",
+    "moeda": "Rupia Indiana",
+    "língua": "Hindi e Inglês",
+    "capital": "Nova Déli"
+  },
+  {
+    "país": "Itália",
+    "continente": "Europa",
+    "moeda": "Euro",
+    "língua": "Italiano",
+    "capital": "Roma"
+  },
+  {
+    "país": "México",
+    "continente": "América do Norte",
+    "moeda": "Peso Mexicano",
+    "língua": "Espanhol",
+    "capital": "Cidade do México"
+  },
+  {
+    "país": "Nigéria",
+    "continente": "África",
+    "moeda": "Naira",
+    "língua": "Inglês",
+    "capital": "Abuja"
+  },
+  {
+    "país": "Rússia",
+    "continente": "Europa e Ásia",
+    "moeda": "Rublo Russo",
+    "língua": "Russo",
+    "capital": "Moscou"
+  },
+  {
+    "país": "Reino Unido",
+    "continente": "Europa",
+    "moeda": "Libra Esterlina",
+    "língua": "Inglês",
+    "capital": "Londres"
+  },
+  {
+    "país": "África do Sul",
+    "continente": "África",
+    "moeda": "Rand",
+    "língua": "Várias línguas incluindo inglês, africâner, zulu, xhosa",
+    "capital": "Pretória"
+  },
+  {
+    "país": "Coreia do Sul",
+    "continente": "Ásia",
+    "moeda": "Won Sul-Coreano",
+    "língua": "Coreano",
+    "capital": "Seul"
+  } 
+]
